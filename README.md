@@ -46,7 +46,7 @@ This repository contains a fine-tuned **Pegasus** model for dialogue summarizati
 ### Clone the Repository
 ```bash
 $ git clone https://github.com/meghanshgarjala/DIALOGUE_SUMMARIZER.git
-$ cd dialogue-summarization-pegasus
+$ cd DIALOGUE_SUMMARIZER
 ```
 
 ### Install Dependencies
